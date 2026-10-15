@@ -1,0 +1,6 @@
+{
+  "name": "Hafsa Clothing",
+  "description": "Clothes made from hand, designed from home in Matli. Handcrafted crochet cardigans, baby frocks, and scarves made with personal love.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
